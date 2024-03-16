@@ -17,3 +17,8 @@ CCTV14 少儿,http://php.jdshipin.com:8880/bst.php?id=cctvsehd/4000000
 CCTV15 音乐,http://php.jdshipin.com:8880/bst.php?id=cctv15hd8m/8000000
 CCTV16 奥林匹克,http://php.jdshipin.com:8880/bst.php?id=cctv16hd8m/8000000
 CCTV17 农业农村,http://php.jdshipin.com:8880/bst.php?id=cctv17hd8m/8000000
+
+广东综合,#genre#
+广东卫视,http://php.jdshipin.com:8880/bst.php?id=gdwshd8m/8000000
+珠江频道,http://113.101.9.182:808/hls/55/index.m3u8
+广东体育,http://jyjxy.7766.org:8811/hls/18/index.m3u8
