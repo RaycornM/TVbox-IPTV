@@ -47,3 +47,4 @@ NHK 華語,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/i
 影视频道,#genre#
 CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 東森電影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+好萊塢電影,http://ali.hlspull.yximgs.com/live/huanqiuhklivejmpjjwdeyjsjjcjvsjfjljvjfhjuejdfjhjwjljcmbhlwjy.flv
