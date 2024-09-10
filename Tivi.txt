@@ -1,0 +1,241 @@
+央视频道,#genre#
+
+CCTV-1 综合,http://127.0.0.1:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV-2 财经,http://127.0.0.1:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
+CCTV-3 综艺,http://127.0.0.1:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
+CCTV-4 中文国际,http://127.0.0.1:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
+CCTV-5 体育,http://127.0.0.1:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
+CCTV-5+ 体育赛事,http://127.0.0.1:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
+CCTV-6 电影,http://127.0.0.1:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
+CCTV-7 国防军事,http://127.0.0.1:35455/itv/1000000005000265007.m3u8?cdn=ystenlive
+CCTV-8 电视剧,http://127.0.0.1:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
+CCTV-9 纪录,http://127.0.0.1:35455/itv/1000000005000265009.m3u8?cdn=ystenlive
+CCTV-10 科教,http://127.0.0.1:35455/itv/1000000005000265010.m3u8?cdn=ystenlive
+CCTV-11 戏曲,http://127.0.0.1:35455/itv/1000000005000265011.m3u8?cdn=ystenlive
+CCTV-12 社会与法,http://127.0.0.1:35455/itv/1000000005000265012.m3u8?cdn=ystenlive
+CCTV-13 新闻,http://127.0.0.1:35455/ysptp/cctv13.m3u8
+CCTV-14 少儿,http://127.0.0.1:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
+CCTV-15 音乐,http://127.0.0.1:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
+CCTV-16 奥林匹克,http://127.0.0.1:35455/itv/5000000008000023254.m3u8?cdn=bestzb
+CCTV-17 农业农村,http://127.0.0.1:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
+CCTV-16 奥林匹克 4K,http://127.0.0.1:35455/ysptp/cctv4k16.m3u8
+CCTV-兵器科技,http://111.61.236.247:9081/hls/61/index.m3u8
+CCTV-第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
+CCTV-风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
+CCTV-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+CCTV-央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
+CCTV-央视高网,http://[2409:8087:74F1:0021::0008]/270000001128/9900000094/index.m3u8
+CGTN英语,https://0472.org/hls/cgtn.m3u8
+CGTN记录,https://0472.org/hls/cgtnd.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
+CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
+CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
+风云剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
+风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8
+
+央视,#genre#
+
+CGTN,http://127.0.0.1:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
+CGTN-记录,http://127.0.0.1:35455/itv/7114647837765104058.m3u8?cdn=hnbblive
+
+4K频道,#genre#
+
+cctv4k,http://127.0.0.1:35455/ysptp/cctv4k.m3u8
+华数-4K,http://127.0.0.1:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
+纯享-4K,http://127.0.0.1:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
+咪咕4K-1,http://127.0.0.1:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+咪咕4K-2,http://127.0.0.1:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+江苏频道-UHD,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
+卫视频道,#genre#
+
+凤凰中文,http://wouu.net:9977/udp/239.93.1.9:2192
+凤凰资讯,http://wouu.net:9977/udp/239.93.1.4:2191
+凤凰香港,http://www.lebaobei.top:6868/udp/239.255.30.123:8231
+北京卫视,http://127.0.0.1:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
+湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+四川卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+天津卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+安徽卫视,http://127.0.0.1:35455/itv/1000000001000030159.m3u8?cdn=ystenlive
+江苏卫视,http://127.0.0.1:35455/itv/1000000001000001828.m3u8?cdn=ystenlive
+浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+海南卫视,http://127.0.0.1:35455/itv/5000000004000006211.m3u8?cdn=bestzb
+东南卫视,http://127.0.0.1:35455/itv/5000000004000010584.m3u8?cdn=bestzb
+重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+新疆卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+兵团卫视,#http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+广东卫视,http://127.0.0.1:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
+大湾区卫视,#http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
+深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+乐游频道,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
+都市剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8
+欢笑剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
+快乐垂钓,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
+游戏风云,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
+哒啵赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+
+北京,#genre#
+
+北京纪实科教-HEVC,http://127.0.0.1:35455/itv/1000000005000265020.m3u8?cdn=ystenlive
+
+上海,#genre#
+
+上海东方卫视-HEVC,http://127.0.0.1:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+上海-ICS-外语,http://127.0.0.1:35455/itv/5000000010000030951.m3u8?cdn=bestzb
+上海第一财经,http://127.0.0.1:35455/itv/5000000010000027146.m3u8?cdn=bestzb
+上海东方财经,http://127.0.0.1:35455/itv/5000000007000010003.m3u8?cdn=bestzb
+上海东方影视,http://127.0.0.1:35455/itv/5000000010000032212.m3u8?cdn=bestzb
+上海都市,http://127.0.0.1:35455/itv/5000000010000018926.m3u8?cdn=bestzb
+上海法治天地,http://127.0.0.1:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
+上海纪实人文-HEVC,http://127.0.0.1:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
+上海五星体育,http://127.0.0.1:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+上海新闻综合,http://127.0.0.1:35455/itv/5000000011000031110.m3u8?cdn=bestzb
+
+地方频道,#genre#
+
+浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+
+NEWTV,#genre#
+
+NewTV-精品综合,http://127.0.0.1:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
+NewTV-精品大剧,http://127.0.0.1:35455/itv/1000000004000013968.m3u8?cdn=ystenlive
+NewTV-精品纪录,http://127.0.0.1:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
+NewTV-精品体育,http://127.0.0.1:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
+NewTV-精品萌宠,http://127.0.0.1:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
+NewTV-爱情喜剧,http://127.0.0.1:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
+NewTV-超级电视剧,http://127.0.0.1:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
+NewTV-超级电影,http://127.0.0.1:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
+NewTV-超级体育,http://127.0.0.1:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
+NewTV-超级综艺,http://127.0.0.1:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
+NewTV-动作电影,http://127.0.0.1:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
+NewTV-古装剧场,http://127.0.0.1:35455/itv/2000000003000000024.m3u8?cdn=hnbblive
+NewTV-欢乐剧场,http://127.0.0.1:35455/itv/1000000005000266012.m3u8?cdn=ystenlive
+NewTV-家庭剧场,http://127.0.0.1:35455/itv/1000000004000008284.m3u8?cdn=ystenlive
+NewTV-金牌综艺,http://127.0.0.1:35455/itv/1000000004000026167.m3u8?cdn=ystenlive
+NewTV-惊悚悬疑,http://127.0.0.1:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
+NewTV-军旅剧场,http://127.0.0.1:35455/itv/2000000003000000014.m3u8?cdn=hnbblive
+NewTV-军事评论,http://127.0.0.1:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
+
+其他,#genre#
+
+咪咕全民热练,http://127.0.0.1:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive
+求索动物,http://127.0.0.1:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
+求索纪录,http://127.0.0.1:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
+求索科学,http://127.0.0.1:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
+求索生活,http://127.0.0.1:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
+
+咪咕体育,#genre#
+
+咪咕视频_8M1080_咪视通-1,http://127.0.0.1:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-2,http://127.0.0.1:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-3,http://127.0.0.1:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-4,http://127.0.0.1:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-5,http://127.0.0.1:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-6,http://127.0.0.1:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-7,http://127.0.0.1:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-8,http://127.0.0.1:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-9,http://127.0.0.1:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-10,http://127.0.0.1:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-11,http://127.0.0.1:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-12,http://127.0.0.1:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-13,http://127.0.0.1:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-14,http://127.0.0.1:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-15,http://127.0.0.1:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-16,http://127.0.0.1:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-17,http://127.0.0.1:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-18,http://127.0.0.1:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-19,http://127.0.0.1:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-20,http://127.0.0.1:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-21,http://127.0.0.1:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-22,http://127.0.0.1:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-23,http://127.0.0.1:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-24,http://127.0.0.1:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-25,http://127.0.0.1:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-26,http://127.0.0.1:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-27,http://127.0.0.1:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-28,http://127.0.0.1:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-29,http://127.0.0.1:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-30,http://127.0.0.1:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-31,http://127.0.0.1:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-32,http://127.0.0.1:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-33,http://127.0.0.1:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-34,http://127.0.0.1:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-35,http://127.0.0.1:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-36,http://127.0.0.1:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-37,http://127.0.0.1:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-38,http://127.0.0.1:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-39,http://127.0.0.1:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-40,http://127.0.0.1:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-41,http://127.0.0.1:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-42,http://127.0.0.1:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-43,http://127.0.0.1:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-44,http://127.0.0.1:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_咪视通-45,http://127.0.0.1:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+咪咕视频_8M1080_湖南bblive-1,http://127.0.0.1:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
+咪咕视频_8M1080_湖南bblive-2,http://127.0.0.1:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
+咪咕视频_8M1080_湖南bblive-3,http://127.0.0.1:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
+咪咕视频_8M1080_湖南bblive-4,http://127.0.0.1:35455/itv/2000000003000000063.m3u8?cdn=hnbblive
+咪咕视频_8M1080_湖南bblive-5,http://127.0.0.1:35455/itv/2000000003000000064.m3u8?cdn=hnbblive
+咪咕视频_8M1080_湖南bblive-6,http://127.0.0.1:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
+咪咕视频_8M1080_易视腾-1,http://127.0.0.1:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
+咪咕视频_8M1080_易视腾-2,http://127.0.0.1:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
+咪咕视频_8M1080_易视腾-3,http://127.0.0.1:35455/itv/1000000006000270003.m3u8?cdn=ystenlive
+咪咕视频_8M1080_易视腾-4,http://127.0.0.1:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
+咪咕视频_8M1080_易视腾-5,http://127.0.0.1:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
+咪咕视频_8M1080_易视腾-6,http://127.0.0.1:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
+
+IHOT,#genre#
+
+iHOT-爱谍战,http://127.0.0.1:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
+iHOT-爱动漫,http://127.0.0.1:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
+iHOT-爱都市,http://127.0.0.1:35455/itv/6000000006000080630.m3u8?cdn=wasusyt
+iHOT-爱怀旧,http://127.0.0.1:35455/itv/6000000006000260630.m3u8?cdn=wasusyt
+iHOT-爱经典,http://127.0.0.1:35455/itv/6000000006000060630.m3u8?cdn=wasusyt
+iHOT-爱科幻,http://127.0.0.1:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
+iHOT-爱科学,http://127.0.0.1:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
+iHOT-爱历史,http://127.0.0.1:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
+iHOT-爱旅行,http://127.0.0.1:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
+iHOT-爱赛车,http://127.0.0.1:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
+iHOT-爱体育,http://127.0.0.1:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
+iHOT-爱喜剧,http://127.0.0.1:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
+iHOT-爱悬疑,http://127.0.0.1:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
+iHOT-爱院线,http://127.0.0.1:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
+
+国际频道,#genre#
+
+TRT World ,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+SKY,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
+KBS world,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+FIFA+,https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+Dubai One,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+GB News,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+TBS,http://143.244.60.30/TBS/index.m3u8
+Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+ION Plus,https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
+ION,https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Disney International,http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
+Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+&Flix HD,http://89.187.177.137:8081/&FLIX/index.m3u8
+Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+Wild Planet,https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
+Clarity 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
+Stadium,https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
+Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
+Tastemade,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
+MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
+NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
