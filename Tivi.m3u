@@ -95,7 +95,7 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031126/1.m3u8
 
 #广东
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png"  group-title="广东",广东卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+http://127.0.0.1:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="广东4K超高清" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="广东",广东4K超高清
 https://tcdn.itouchtv.cn/live/gdzy.m3u8?t_token=9e1bf4c7b6b2c2c52c8163b875e150fa-GcDBP3udR2Qbz417i1R4wdN5BEUprqo2Ht0PZ5n73fWw7ynJfFi0gsQokaYnBj69JaOY54TnKuCSTPfXxNxcZ5nNGGdne34QtCXoK5zEm7iQrAV7CpAmnZrYj%2FUfLlk66ak%2F5vQ3tdl82xmIvx2oWRBVeFr4vjcpxlG%2BvwdynQ7xW51qHeQckMhJCMX1IFvAMjzFAqMPsw%2Bi5ZBmxi7pzyvqoHRsWYPSV7ABo96Ja4XyehoznJKMOx08R%2F0vMrduhswOfYIDa4zbbEwX%2F%2FahSfEWUuPImqrns1lCnAidL3C0KY4N8yF20sVP%2BylZ4sXAw4ABy1vF8ZxytV4REcPXoA%3D%3D
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
@@ -107,7 +107,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1920x1080
 http://1b6467f415.iok.la:9931/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
-https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=1551faad94edf90d6a4436ed2173f757-nWeJeBYZSZSWkaw9Iyl9YTuPJqWOS85V84ymawR0hsHHcYtPlcrRX3qY2GFB%2BkVN%2B0J2Q%2BDv%2BX8ZBf6CjWWxZ%2BIrNO%2B8V67dD0ghQc9Pnvq%2FHzsfswHN8kBim6RZMnml%2Fv6ZJxFxBJO48cp4aAoJNKKT0GMqrBosV6ir1LOS3TbRhM%2FUhxFkpy6GrGt31PV3Kv5kKziag0IU5ALfZX1IgmzC5ONv3WXuzSdZzpbDYTjKgWCAwdH%2F1CDKpuP793a13z5UtdXemq8P5%2FGnuOl1VyqvstZIUIJtT4wPPMr9cYaJdLQSQ0JhIkuUqnsrwcikISGR7e7S1H%2FIUyn1COFKpg%3D%3D
+http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdzj&pk=1183
 #EXTINF:-1 tvg-id="57" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/GDTV6.png" group-title="广东",广东新闻
 https://tcdn.itouchtv.cn/live/xwpd.m3u8?t_token=f4a49146300aa9e137a2cea71564c806-9YoK%2FmdwobMPcl9zLQ8%2FF29NqGV5Kms0rA5u0WTm80O9jOyQ7GJxFvxXr7uRghnfYr2eLReYbJTtONj3CkQqkGq2gQobJIiORGI7rbet2pgpGjQhl8ZZ2KkYSWOBsl6XKf4ue8AKHhGUsZdUcUaF3yQNd%2FEb9SGNoFuQgbxpBUcL9xvHGqawwNb%2F8t%2FNYHVVsVkN0bUT5OqAU0w%2FZRlpxdR8%2B1DBxUNGI9yHqmfGf8KYDNqmqlmAiXmdUiduNlwV%2B7eYz5450oFq754XzHC2tiHXHIJrtxQbOvhwQDwCzeLhWytkf6ZFEJH5j4A0E9YA1qgPRQH%2Fic6y3ny1xH0l8A%3D%3D
 
