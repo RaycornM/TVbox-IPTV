@@ -95,7 +95,7 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031126/1.m3u8
 
 #广东
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png"  group-title="广东",广东卫视
-http://127.0.0.1:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-name="广东4K超高清" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="广东",广东4K超高清
 https://tcdn.itouchtv.cn/live/gdzy.m3u8?t_token=9e1bf4c7b6b2c2c52c8163b875e150fa-GcDBP3udR2Qbz417i1R4wdN5BEUprqo2Ht0PZ5n73fWw7ynJfFi0gsQokaYnBj69JaOY54TnKuCSTPfXxNxcZ5nNGGdne34QtCXoK5zEm7iQrAV7CpAmnZrYj%2FUfLlk66ak%2F5vQ3tdl82xmIvx2oWRBVeFr4vjcpxlG%2BvwdynQ7xW51qHeQckMhJCMX1IFvAMjzFAqMPsw%2Bi5ZBmxi7pzyvqoHRsWYPSV7ABo96Ja4XyehoznJKMOx08R%2F0vMrduhswOfYIDa4zbbEwX%2F%2FahSfEWUuPImqrns1lCnAidL3C0KY4N8yF20sVP%2BylZ4sXAw4ABy1vF8ZxytV4REcPXoA%3D%3D
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
