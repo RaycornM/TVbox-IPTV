@@ -108,8 +108,10 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://1b6467f415.iok.la:9931/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/GDTV6.png" group-title="广东",广东新闻
+#EXTINF:-1 tvg-id="58" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/GDTV6.png" group-title="广东",广东新闻
 https://php.17186.eu.org/gdtv/web/xwpd.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东",广州综合
+http://php.jdshipin.com/gztv.php?id=zhonghe
 
 #港澳台
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰中文
