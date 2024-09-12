@@ -109,7 +109,11 @@ http://cs.iptviptv.site:9694/hls/98/index.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="港澳台",明珠台
 http://cs.iptviptv.site:9694/hls/103/index.m3u8
 #EXTINF:-1 tvg-id="TVB无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台",TVB无线新闻
-http://cs.iptviptv.site/hls/906/index.m3u8
+http://cs.iptviptv.site:9694/hls/906/index.m3u8
+#EXTINF:-1 tvg-id="TVBsuper" tvg-name="TVBsuper" tvg-logo="https://live.fanmingming.com/tv/TVB+.png" group-title="港澳台",TVBsuper
+http://cs.iptviptv.site:9694/hls/916/index.m3u8
+#EXTINF:-1 tvg-id="TVB+" tvg-name="TVB+" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="港澳台",TVB+
+http://cs.iptviptv.site:9694/hls/905/index.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="港澳台",澳视澳门
@@ -127,7 +131,7 @@ http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/TVBJ1.png" group-title="港澳台",TVBJ1
 https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="TVBJ2" tvg-name="TVBJ2" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB3.png" group-title="港澳台",TVBJ2
-http://bziyunshao.synology.me:8890/bysid/82
+http://cs.iptviptv.site:9694/hls/916/index.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="港澳台",TVBS
 https://tv.iill.top/litv/4gtv-4gtv073
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港澳台",星空卫视
