@@ -85,15 +85,15 @@ http://111.61.236.247:9081/hls/67/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png"  group-title="广东",广东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
-http://cs.iptviptv.site/hls/452/index.m3u8
+http://cs.iptviptv.site:9694/hls/452/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="广东",深圳卫视
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/shenzhenHD/__op/default/__f/6/v1M/index.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东",广东体育
-http://cs.iptviptv.site/hls/456/index.m3u8
+http://cs.iptviptv.site:9694/hls/456/index.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
-http://cs.iptviptv.site/hls/451/index.m3u8
+http://cs.iptviptv.site:9694/hls/451/index.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/GDTV6.png" group-title="广东",广东新闻
-http://cs.iptviptv.site/hls/454/index.m3u8
+http://cs.iptviptv.site:9694/hls/454/index.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="广东",广州综合
 http://php.jdshipin.com/gztv.php?id=zhonghe
 
@@ -105,9 +105,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",翡翠台
-http://cs.iptviptv.site/hls/902/index.m3u8
+http://cs.iptviptv.site:9694/hls/98/index.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="港澳台",明珠台
-http://cs.iptviptv.site/hls/103/index.m3u8
+http://cs.iptviptv.site:9694/hls/103/index.m3u8
 #EXTINF:-1 tvg-id="TVB无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台",TVB无线新闻
 http://cs.iptviptv.site/hls/906/index.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台",香港卫视
