@@ -93,7 +93,7 @@ http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/shenzhenHD/__op/default/__f/6
 #EXTINF:-1 tvg-id="57" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东",广东体育
 http://ss.iptviptv.site:9694/hls/456/index.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
-http://ss.iptviptv.site:9694/hls/451/index.m3u8
+http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
 #EXTINF:-1 tvg-id="58" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/GDTV6.png" group-title="广东",广东新闻
 http://ss.iptviptv.site:9694/hls/454/index.m3u8
 
