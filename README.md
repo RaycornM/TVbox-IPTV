@@ -1,6 +1,6 @@
 # tvbox直播源链接：
 
-https://raw.githubusercontent.com/RaycornM/TVbox-IPTV/main/iptv.txt ——失效
+https://raw.githubusercontent.com/RaycornM/TVbox-IPTV/main/Tivi.txt
 
 # Tivimate直播源：
 
