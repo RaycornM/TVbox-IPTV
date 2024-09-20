@@ -72,6 +72,13 @@ TVB+,http://avd.iptviptv.site:9694/hls/905/index.m3u8
 今日俄罗斯,http://avd.iptviptv.site:9694/hls/1003/index.m3u8
 HBO,http://avd.iptviptv.site:9694/hls/1001/index.m3u8
 
+体育,#genre#
+新视觉,http://php.jdshipin.com/bestv.php?id=xsjhd/4000000
+五星体育,http://117.161.12.124/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+先锋乒羽,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/xianfeng/__op/default/__f/index.m3u8
+广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=643f13e07c398292a7890d43917bac25&txTime=1920d2cfbb5
+魅力足球,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
+
 卫视频道,#genre#
 
 北京卫视,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/beijingHD/__op/default/__f/11/v2M/index.m3u8
@@ -163,10 +170,10 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 
 咪咕体育,#genre#
 
-睛彩竞技，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-睛彩篮球，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-睛彩广场舞，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-咪咕视频1，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+睛彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+睛彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+咪咕视频1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕视频_8M1080_咪视通-1,http://127.0.0.1:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-2,http://127.0.0.1:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-3,http://127.0.0.1:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
