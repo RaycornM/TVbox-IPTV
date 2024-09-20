@@ -422,36 +422,6 @@ http://127.0.0.1:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_易视腾-6
 http://127.0.0.1:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
 
-#IHOT
-#EXTINF:-1,tvg-id="IHOT爱谍战" tvg-name="IHOT爱谍战" tvg-logo="https://epg.v1.mk/logo/IHOT爱谍战.png" group-title="IHOT",iHOT-爱谍战
-http://127.0.0.1:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱动漫" tvg-name="IHOT爱动漫" tvg-logo="https://epg.v1.mk/logo/IHOT爱动漫.png" group-title="IHOT",iHOT-爱动漫
-http://127.0.0.1:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱都市" tvg-name="IHOT爱都市" tvg-logo="https://epg.v1.mk/logo/IHOT爱都市.png" group-title="IHOT",iHOT-爱都市
-http://127.0.0.1:35455/itv/6000000006000080630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱怀旧" tvg-name="IHOT爱怀旧" tvg-logo="https://epg.v1.mk/logo/IHOT爱怀旧.png" group-title="IHOT",iHOT-爱怀旧
-http://127.0.0.1:35455/itv/6000000006000260630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱经典" tvg-name="IHOT爱经典" tvg-logo="https://epg.v1.mk/logo/IHOT爱经典.png" group-title="IHOT",iHOT-爱经典
-http://127.0.0.1:35455/itv/6000000006000060630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱科幻" tvg-name="IHOT爱科幻" tvg-logo="https://epg.v1.mk/logo/IHOT爱科幻.png" group-title="IHOT",iHOT-爱科幻
-http://127.0.0.1:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱科学" tvg-name="IHOT爱科学" tvg-logo="https://epg.v1.mk/logo/IHOT爱科学.png" group-title="IHOT",iHOT-爱科学
-http://127.0.0.1:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱历史" tvg-name="IHOT爱历史" tvg-logo="https://epg.v1.mk/logo/IHOT爱历史.png" group-title="IHOT",iHOT-爱历史
-http://127.0.0.1:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱旅行" tvg-name="IHOT爱旅行" tvg-logo="https://epg.v1.mk/logo/IHOT爱旅行.png" group-title="IHOT",iHOT-爱旅行
-http://127.0.0.1:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱赛车" tvg-name="IHOT爱赛车" tvg-logo="https://epg.v1.mk/logo/IHOT爱赛车.png" group-title="IHOT",iHOT-爱赛车
-http://127.0.0.1:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱体育" tvg-name="IHOT爱体育" tvg-logo="https://epg.v1.mk/logo/IHOT爱体育.png" group-title="IHOT",iHOT-爱体育
-http://127.0.0.1:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱喜剧" tvg-name="IHOT爱喜剧" tvg-logo="https://epg.v1.mk/logo/IHOT爱喜剧.png" group-title="IHOT",iHOT-爱喜剧
-http://127.0.0.1:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱悬疑" tvg-name="IHOT爱悬疑" tvg-logo="https://epg.v1.mk/logo/IHOT爱悬疑.png" group-title="IHOT",iHOT-爱悬疑
-http://127.0.0.1:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="IHOT爱院线" tvg-name="IHOT爱院线" tvg-logo="https://epg.v1.mk/logo/IHOT爱院线.png" group-title="IHOT",iHOT-爱院线
-http://127.0.0.1:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
-
 #国际频道
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CNN.png" group-title="国际频道",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8

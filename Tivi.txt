@@ -221,23 +221,6 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 咪咕视频_8M1080_易视腾-5,http://127.0.0.1:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
 咪咕视频_8M1080_易视腾-6,http://127.0.0.1:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
 
-IHOT,#genre#
-
-iHOT-爱谍战,http://127.0.0.1:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
-iHOT-爱动漫,http://127.0.0.1:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
-iHOT-爱都市,http://127.0.0.1:35455/itv/6000000006000080630.m3u8?cdn=wasusyt
-iHOT-爱怀旧,http://127.0.0.1:35455/itv/6000000006000260630.m3u8?cdn=wasusyt
-iHOT-爱经典,http://127.0.0.1:35455/itv/6000000006000060630.m3u8?cdn=wasusyt
-iHOT-爱科幻,http://127.0.0.1:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
-iHOT-爱科学,http://127.0.0.1:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
-iHOT-爱历史,http://127.0.0.1:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
-iHOT-爱旅行,http://127.0.0.1:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
-iHOT-爱赛车,http://127.0.0.1:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
-iHOT-爱体育,http://127.0.0.1:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
-iHOT-爱喜剧,http://127.0.0.1:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
-iHOT-爱悬疑,http://127.0.0.1:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
-iHOT-爱院线,http://127.0.0.1:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
-
 国际频道,#genre#
 
 TRT World ,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
