@@ -307,6 +307,14 @@ http://127.0.0.1:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
 http://127.0.0.1:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 
 #咪咕
+#EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="咪咕体育",睛彩竞技
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="咪咕体育",睛彩篮球
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1,tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://epg.v1.mk/logo/睛彩广场舞.png" group-title="咪咕体育",睛彩广场舞
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1,tvg-id="咪咕视频1" tvg-name="咪咕视频1" tvg-logo="https://epg.v1.mk/logo/咪咕视频.png" group-title="咪咕体育",咪咕视频1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-1
 http://127.0.0.1:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 #EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-2

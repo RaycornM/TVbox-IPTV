@@ -163,6 +163,10 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 
 咪咕体育,#genre#
 
+睛彩竞技，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+睛彩篮球，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+睛彩广场舞，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+咪咕视频1，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕视频_8M1080_咪视通-1,http://127.0.0.1:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-2,http://127.0.0.1:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-3,http://127.0.0.1:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
