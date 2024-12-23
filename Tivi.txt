@@ -1,7 +1,7 @@
 央视频道,#genre#
 
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
-CCTV-2 财经,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
+CCTV-2 财经,http://120.76.248.139/live/bfgd/4200000061.m3u8
 CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
 CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
 CCTV-5 体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
@@ -36,43 +36,35 @@ CCTV-风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
 CCTV-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV-央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 CCTV-央视高网,http://[2409:8087:74F1:0021::0008]/270000001128/9900000094/index.m3u8
-CCTV-风云音乐,http://60.10.225.157:555/rtp/239.253.93.253:6431
-CCTV-风云剧场,http://60.10.225.157:555/rtp/239.253.93.251:6429
-CCTV-怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
 
 广东,#genre#
 
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-广东体育,http://avd.iptviptv.site:9694/hls/456/index.m3u8
-广东珠江,http://avd.iptviptv.site:9694/hls/451/index.m3u8
-广东新闻,http://avd.iptviptv.site:9694/hls/454/index.m3u8
-广东影视,http://avd.iptviptv.site:9694/hls/458/index.m3u8
-大湾区卫视,http://avd.iptviptv.site:9694/hls/452/index.m3u8
-深圳卫视,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/shenzhenHD/__op/default/__f/6/v1M/index.m3u8
+广东体育,http://113.101.119.94:8090/hls/108/index.m3u8
+广东珠江,http://39.134.136.161:6610/000000001000/1000000004000011655/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011655
+广东新闻,http://qwe.iptviptv.site:9694/hls/454/index.m3u8
+广东影视,http://qwe.iptviptv.site:9694/hls/458/index.m3u8
+大湾区卫视,http://39.134.136.161:6610/000000001000/1000000002000011619/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000011619
+深圳卫视,http://39.134.136.161:6610/000000001000/5352218613763113657/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5352218613763113657
 
 港澳台,#genre#
 
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-翡翠台,http://avd.iptviptv.site:9694/hls/902/index.m3u8
-明珠台,http://avd.iptviptv.site:9694/hls/103/index.m3u8
-TVB无线新闻,http://avd.iptviptv.site:9694/hls/906/index.m3u8
-TVBsuper,http://avd.iptviptv.site:9694/hls/916/index.m3u8
-TVB+,http://avd.iptviptv.site:9694/hls/905/index.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
-莲花卫视,http://php.jdshipin.com:8880/amlh.php
-中视,http://37.27.111.214:8080/live/7/hls.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+TVB无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 
 测试国际,#genre#
-日本NHK,http://avd.iptviptv.site:9694/hls/1004/index.m3u8
+
+日本NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 韩国KBS,http://avd.iptviptv.site:9694/hls/1005/index.m3u8
-今日俄罗斯,http://avd.iptviptv.site:9694/hls/1003/index.m3u8
+今日俄罗斯,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 HBO,http://avd.iptviptv.site:9694/hls/1001/index.m3u8
 
-体育,#genre#
+体育赛事,#genre#
+
 新视觉,http://php.jdshipin.com/bestv.php?id=xsjhd/4000000
 五星体育,http://117.161.12.124/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 先锋乒羽,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/xianfeng/__op/default/__f/index.m3u8
@@ -101,6 +93,11 @@ HBO,http://avd.iptviptv.site:9694/hls/1001/index.m3u8
 
 北京纪实科教,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/bjayjsSD/__op/default/__f/2/v2M/index.m3u8
 
+地方频道,#genre#
+
+浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+
 上海,#genre#
 
 上海东方卫视,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/shanghaiHD/__op/default/__f/5/v1M/index.m3u8
@@ -113,11 +110,6 @@ HBO,http://avd.iptviptv.site:9694/hls/1001/index.m3u8
 上海纪实人文-HEVC,http://127.0.0.1:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
 上海五星体育,http://117.161.12.124/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 上海新闻综合,http://127.0.0.1:35455/itv/5000000011000031110.m3u8?cdn=bestzb
-
-地方频道,#genre#
-
-浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 
 数字频道,#genre#
 
@@ -168,69 +160,58 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 求索科学,http://127.0.0.1:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
 求索生活,http://127.0.0.1:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 
-咪咕体育,#genre#
+
+
+咪咕,#genre#
 
 睛彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 睛彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-咪咕视频1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-咪咕视频_8M1080_咪视通-1,http://127.0.0.1:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-2,http://127.0.0.1:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-3,http://127.0.0.1:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-4,http://127.0.0.1:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-5,http://127.0.0.1:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-6,http://127.0.0.1:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-7,http://127.0.0.1:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-8,http://127.0.0.1:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-9,http://127.0.0.1:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-10,http://127.0.0.1:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-11,http://127.0.0.1:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-12,http://127.0.0.1:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-13,http://127.0.0.1:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-14,http://127.0.0.1:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-15,http://127.0.0.1:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-16,http://127.0.0.1:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-17,http://127.0.0.1:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-18,http://127.0.0.1:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-19,http://127.0.0.1:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-20,http://127.0.0.1:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-21,http://127.0.0.1:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-22,http://127.0.0.1:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-23,http://127.0.0.1:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-24,http://127.0.0.1:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-25,http://127.0.0.1:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-26,http://127.0.0.1:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-27,http://127.0.0.1:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-28,http://127.0.0.1:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-29,http://127.0.0.1:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-30,http://127.0.0.1:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-31,http://127.0.0.1:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-32,http://127.0.0.1:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-33,http://127.0.0.1:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-34,http://127.0.0.1:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-35,http://127.0.0.1:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-36,http://127.0.0.1:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-37,http://127.0.0.1:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-38,http://127.0.0.1:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-39,http://127.0.0.1:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-40,http://127.0.0.1:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-41,http://127.0.0.1:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-42,http://127.0.0.1:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-43,http://127.0.0.1:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-44,http://127.0.0.1:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_咪视通-45,http://127.0.0.1:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
-咪咕视频_8M1080_湖南bblive-1,http://127.0.0.1:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
-咪咕视频_8M1080_湖南bblive-2,http://127.0.0.1:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
-咪咕视频_8M1080_湖南bblive-3,http://127.0.0.1:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
-咪咕视频_8M1080_湖南bblive-4,http://127.0.0.1:35455/itv/2000000003000000063.m3u8?cdn=hnbblive
-咪咕视频_8M1080_湖南bblive-5,http://127.0.0.1:35455/itv/2000000003000000064.m3u8?cdn=hnbblive
-咪咕视频_8M1080_湖南bblive-6,http://127.0.0.1:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
-咪咕视频_8M1080_易视腾-1,http://127.0.0.1:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
-咪咕视频_8M1080_易视腾-2,http://127.0.0.1:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
-咪咕视频_8M1080_易视腾-3,http://127.0.0.1:35455/itv/1000000006000270003.m3u8?cdn=ystenlive
-咪咕视频_8M1080_易视腾-4,http://127.0.0.1:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
-咪咕视频_8M1080_易视腾-5,http://127.0.0.1:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
-咪咕视频_8M1080_易视腾-6,http://127.0.0.1:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
+咪咕1,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕2,http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕3,http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕4,http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕5,http://111.13.111.242/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕6,http://111.13.111.242/000000001000/3000000001000008379/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕7,http://111.13.111.242/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕8,http://111.13.111.242/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕9,http://111.13.111.242/000000001000/3000000001000026778/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕10,http://111.13.111.242/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕11,http://111.13.111.242/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕12,http://111.13.111.242/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕13,http://111.13.111.242/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕14,http://111.13.111.242/000000001000/3000000010000002032/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕15,http://111.13.111.242/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕16,http://111.13.111.242/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕17,http://111.13.111.242/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕18,http://111.13.111.242/000000001000/3000000010000004464/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕19,http://111.13.111.242/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕20,http://111.13.111.242/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕21,http://111.13.111.242/000000001000/3000000010000006658/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕22,http://111.13.111.242/000000001000/3000000010000006944/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕23,http://111.13.111.242/000000001000/3000000010000007692/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕24,http://111.13.111.242/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕25,http://111.13.111.242/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕26,http://111.13.111.242/000000001000/3000000010000011112/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕27,http://111.13.111.242/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕28,http://111.13.111.242/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕29,http://111.13.111.242/000000001000/3000000010000011763/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕30,http://111.13.111.242/000000001000/3000000010000011873/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕31,http://111.13.111.242/000000001000/3000000010000012398/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕32,http://111.13.111.242/000000001000/3000000010000012450/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕33,http://111.13.111.242/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕34,http://111.13.111.242/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕35,http://111.13.111.242/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕36,http://111.13.111.242/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕37,http://111.13.111.242/000000001000/3000000010000017389/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕38,http://111.13.111.242/000000001000/3000000010000017678/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕39,http://111.13.111.242/000000001000/3000000010000017997/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕40,http://111.13.111.242/000000001000/3000000010000019380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕41,http://111.13.111.242/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕42,http://111.13.111.242/000000001000/3000000010000020168/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕43,http://111.13.111.242/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕44,http://111.13.111.242/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕45,http://111.13.111.242/000000001000/3000000010000024205/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 
 国际频道,#genre#
 
