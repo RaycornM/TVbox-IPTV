@@ -162,7 +162,7 @@ http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-id="星光综合" tvg-name="星光综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/星光综合台.png" group-title="港澳台",星光综合
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="港澳台",东森新闻
-https://ushls.ballbar.net/ettvnews/playlist-25.m3u8a?t=1735544541&token=238210927a1f5e51220e981eeab0e1a6
+http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/EBCMovies.png" group-title="港澳台",东森电影
 https://ushls.ballbar.net/ettvwestern/playlist-25.m3u8a?t=1735544242&token=46c4c7440f053c3518f73e4ac59e60c2
 #EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="港澳台",环球电视
@@ -172,7 +172,7 @@ https://bstvcdn.ballbar.net/videolandjapan/playlist-15.m3u8a?t=1735566714&token=
 #EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来音乐台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai6.png" group-title="港澳台",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png" group-title="港澳台",纬来体育
-https://ushls.ballbar.net/videolandsport/playlist-25.m3u8a?t=1735544002&token=fbd18579cb6bfcd41776cfce6afbc5ce
+http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai4.png" group-title="港澳台",纬来电影
 https://ushls.ballbar.net/videolandmovie/playlist-15.m3u8a?t=1735544032&token=ec3d3a4c5c1c8f401cbe3ee78829811f
 
@@ -505,8 +505,6 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/7345
 https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 #EXTINF:-1 group-title="国际频道",TBS
 http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 group-title="国际频道",Taiwan Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",ION Plus
 https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
 #EXTINF:-1 group-title="国际频道",ION
