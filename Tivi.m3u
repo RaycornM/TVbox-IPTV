@@ -48,12 +48,8 @@ http://116.1.184.56:8181/tsfile/live/1064_1.m3u8
 http://116.1.184.56:8181/tsfile/live/1063_1.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
 http://116.1.184.56:8181/tsfile/live/1062_1.m3u8
-#EXTINF:-1,tvg-id="cgtn" tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/cgtn.png" group-title="央视频道",CGTN
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cgtnSD/__op/default/__f/1/v2M/index.m3u8
 #EXTINF:-1,tvg-id="CGTN记录" tvg-name="CGTN记录1" tvg-logo="https://epg.v1.mk/logo/CGTN记录.png" group-title="央视频道",CGTN-记录
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录2" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
-http://116.1.184.56:8181/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
