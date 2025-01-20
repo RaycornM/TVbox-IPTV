@@ -88,8 +88,16 @@ http://113.83.248.220:4200/udp/239.77.0.215:5146
 http://113.83.248.220:4200/udp/239.77.1.3:5146
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东",广东体育
 http://113.83.248.220:4200/udp/239.77.0.112:5146
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育(备用)" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东",广东体育（备用）
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育(备用2)" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东",广东体育（备用2）
+http://huangtong-com.cn:9902/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江
 http://113.83.248.220:4200/udp/239.77.0.1:5146
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江(备用)" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江（备用）
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江(备用2)" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东",广东珠江（备用2）
+http://huangtong-com.cn:9902/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/GDTV6.png" group-title="广东",广东新闻
 http://113.83.248.220:4200/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东",广东经济科教
@@ -196,7 +204,7 @@ http://117.161.12.124/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://epg.v1.mk/logo/先锋乒羽.png" group-title="体育赛事",先锋乒羽
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/xianfeng/__op/default/__f/index.m3u8
 #EXTINF:-1,tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://epg.v1.mk/logo/广州竞赛.png" group-title="体育赛事",广州竞赛
-https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=643f13e07c398292a7890d43917bac25&txTime=1920d2cfbb5
+http://113.83.248.220:4200/udp/239.77.1.218:5146
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="体育赛事",魅力足球
 http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
 
