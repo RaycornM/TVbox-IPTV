@@ -85,7 +85,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType
 #EXTINF:-1 tvg-name="广东卫视(备用)" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png"  group-title="广东",广东卫视(备用)
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
-http://113.83.248.220:4200/udp/239.77.0.215:5146
+https://www.freetv.top/migu/608917627.m3u8?migutoken=79b7f10c0f314a06238d3f44b7b3369bfa0fc67e4b1a6c4284b3d749e5a0b9fd88d3c2fb997693b14c50210e78ff89e4c16ce5a26a1231dd5c167870955fea3bb052be5b98af6f6c9d137b0d2c
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="广东",深圳卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东",广东体育
@@ -109,7 +109,7 @@ http://113.83.248.220:4200/udp/239.77.0.217:5146
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="广东",广东少儿
 http://113.83.248.220:4200/udp/239.77.0.250:5146
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="广东",嘉佳卡通
-http://113.83.248.220:4200/udp/239.77.0.179:5146
+https://www.freetv.top/migu/614952364.m3u8?migutoken=5c76dcca7b39cad7812ca6b706a1a91b7649b449ee6ba64e1c9d05fcc2deb50bb285b4517f50eca48d7c47b07c79d7259dd9899433f33ebbe0ada8b841c6adf05b9e6496060011c9a70e06e47a
 #EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png" group-title="广东",岭南戏曲
 http://113.83.248.220:4200/udp/239.77.0.16:5146
 #EXTINF:-1 tvg-id="58" tvg-name="清远文旅生活" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="广东",清远文旅生活
@@ -203,6 +203,8 @@ https://ushls.ballbar.net/hbofamily/hbohd_twn/playlist-15.m3u8a?t=1735545081&tok
 #体育
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.v1.mk/logo/新视觉.png" group-title="体育赛事",新视觉
 http://php.jdshipin.com/bestv.php?id=xsjhd/4000000
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育赛事",劲爆体育
+https://www.freetv.top/migu/796071336.m3u8?migutoken=3172715e4519ab0e14ebc2bc989e61148725cde67a717820be2bb5b974855334e815b99fef8b22a406f8758915830d2b4fd993b9ad25b896759856a027f22fc49deb1720ef647ffe8b21182027
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="体育赛事",五星体育
 http://117.161.12.124/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://epg.v1.mk/logo/先锋乒羽.png" group-title="体育赛事",先锋乒羽
@@ -210,7 +212,7 @@ http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/xianfeng/__op/default/__f/ind
 #EXTINF:-1,tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://epg.v1.mk/logo/广州竞赛.png" group-title="体育赛事",广州竞赛
 http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="体育赛事",魅力足球
-http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
+https://www.freetv.top/migu/796070308.m3u8?migutoken=243edc4b9ed6db859594c5ff9b97d56a82afad8d0d90f96c72987e7f0701bbf4a17bba2a52d52ca2c14f70582b7664bb2a22a19600dc42ea6f2fd8bf320a83f862fec586dd9d7a7b8a1d9aa701
 
 #卫视
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
@@ -268,7 +270,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1,tvg-id="上海ICS" tvg-name="上海ICS" tvg-logo="https://epg.v1.mk/logo/上海ICS.png" group-title="上海",上海-ICS-外语
 http://127.0.0.1:35455/itv/5000000010000030951.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.v1.mk/logo/上海第一财经.png" group-title="上海",上海第一财经
-http://127.0.0.1:35455/itv/5000000010000027146.m3u8?cdn=bestzb
+https://www.freetv.top/migu/608780988.m3u8?migutoken=29d8831316d0b82ceac976c7ca6d6537594a1c36966c73c28d6d840c2e7a403fd1dbf9c6295ebd2b1ed4e65817deb656b4d383b5ba9fa0a8b1f6565c8ccdf352f731ad091de7991651a2dd3284
 #EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="上海",上海东方财经
 http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111
 #EXTINF:-1,tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://epg.v1.mk/logo/上海东方影视.png" group-title="上海",上海东方影视
