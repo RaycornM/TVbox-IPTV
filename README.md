@@ -16,7 +16,9 @@ http://tonkiang.us
 
 ## 在线直播源转换工具
 
-https://guihet.com/tvlistconvert.html
+~~https://guihet.com/tvlistconvert.html（突然要安装额外提供的安全插件才允许进入网页，所以排除，不介意可以尝试）
+https://iptv-search.com/zh-hans/m3u2txt
+https://sankei.mo/z.html
 
 ### 记录
 >记录一下修复/更新/删除了什么
