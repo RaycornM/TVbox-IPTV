@@ -121,17 +121,17 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文(备用)" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰中文(备用)
 http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111
 #EXTINF:-1 tvg-name="凤凰中文(备用2)" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰中文(备用2)
-https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰中文(备用3)" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰中文(备用3)
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯(备用)" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台",凤凰资讯(备用)
-https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-name="凤凰香港(备用)" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港(备用)
-https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
+http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="翡翠台1" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="翡翠台2" tvg-name="翡翠台4K" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",翡翠台4K
@@ -139,7 +139,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-id="明珠台1" tvg-name="明珠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="港澳台",明珠台
 http://qjrhc.jydjd.top:2911/udp/224.1.100.2:11111
 #EXTINF:-1 tvg-id="明珠台2" tvg-name="明珠台(备用)" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="港澳台",明珠台(备用)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Phoenix4.png" group-title="港澳台",凤凰电影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台",香港卫视
@@ -147,11 +147,11 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="TVB无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台",TVB无线新闻
 https://stream1.freetv.fun/tvbwu-xian-xin-wen-2.ctv
 #EXTINF:-1 tvg-id="TVB无线新闻2" tvg-name="无线新闻(备用)" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台",TVB无线新闻(备用)
-https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVB无线新闻3" tvg-name="无线新闻(备用2)" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台",TVB无线新闻(备用2)
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港澳台",TVBS新闻台
-https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Aoshi1.png" group-title="港澳台",澳视澳门
 http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 #EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/Aoya.png" group-title="港澳台",澳亚卫视
@@ -169,7 +169,7 @@ https://ushls.ballbar.net/cinemax_twn/playlist-25.m3u8a?t=1735544618&token=8ebac
 #EXTINF:-1 tvg-id="TVBsuper" tvg-name="TVBsuper" tvg-logo="https://live.fanmingming.com/tv/TVB+.png" group-title="港澳台",TVBsuper
 http://bva.iptviptv.site:9694/hls/916/index.m3u8
 #EXTINF:-1 tvg-id="TVB+" tvg-name="TVB+" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="港澳台",TVB+
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVB无线星河" tvg-name="无线星河" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/gangaotai/TVB6.png" group-title="港澳台",TVB无线星河
 https://stream1.freetv.fun/tvbxing-he-1.ctv
 #EXTINF:-1 tvg-id="TVB无线星河2" tvg-name="无线星河(备用)" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB6.png" group-title="港澳台",TVB无线星河(备用)
@@ -193,9 +193,9 @@ http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111
 #EXTINF:-1 tvg-id="星光综合" tvg-name="星光综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/星光综合台.png" group-title="港澳台",星光综合
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/EBCNews.png" group-title="港澳台",东森新闻
-https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
+http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/EBCMovies.png" group-title="港澳台",东森电影
-https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+https://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="港澳台",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai3.png" group-title="港澳台",纬来日本
@@ -203,17 +203,17 @@ rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来音乐台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai6.png" group-title="港澳台",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png" group-title="港澳台",纬来体育
-https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
+http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 #EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai4.png" group-title="港澳台",纬来电影
 https://ushls.ballbar.net/videolandmovie/playlist-15.m3u8a?t=1735544032&token=ec3d3a4c5c1c8f401cbe3ee78829811f
 #EXTINF:-1 tvg-id="Animax(HK)" tvg-name="Animax(HK)" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/blob/main/img/Animax.png" group-title="港澳台",Animax(HK)
-https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
+http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
 
 #测试国际
 #EXTINF:-1 tvg-id="日本NHK" tvg-name="日本NHK" tvg-logo="https://live.fanmingming.com/tv/NHK.png" group-title="测试国际",日本NHK
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="日本全天新闻" tvg-name="日本全天新闻" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/worldTV/日本全天新闻.png" group-title="测试国际",日本全天新闻
-https://s2.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
+http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
 #EXTINF:-1 tvg-id="韩国KBS" tvg-name="韩国KBS" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/Weilai5.png" group-title="测试国际",韩国KBS
 http://avd.iptviptv.site:9694/hls/1005/index.m3u8
 #EXTINF:-1 tvg-id="今日俄罗斯" tvg-name="今日俄罗斯" tvg-logo="https://live.fanmingming.com/tv/RTNews.png" group-title="测试国际",今日俄罗斯
