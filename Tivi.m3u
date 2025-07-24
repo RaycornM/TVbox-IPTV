@@ -236,6 +236,10 @@ http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/xianfeng/__op/default/__f/ind
 http://qjrhc.jydjd.top:2911/udp/224.1.100.105:11111
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="体育赛事",魅力足球
 http://qjrhc.jydjd.top:2911/udp/224.1.100.133:11111
+#EXTINF:-1,tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://epg.v1.mk/logo/哒啵电竞.png" group-title="咪咕",哒啵电竞
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226891/1.m3u8
+#EXTINF:-1,tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://epg.v1.mk/logo/哒啵赛事.png" group-title="咪咕",哒啵赛事
+哒啵赛事,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226905/1.m3u8
 
 #卫视
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
@@ -373,9 +377,9 @@ http://127.0.0.1:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.v1.mk/logo/纯享4K.png" group-title="4K频道",纯享-4K
 http://127.0.0.1:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="4K频道",咪咕4K-1
-http://127.0.0.1:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226938/1.m3u8
 #EXTINF:-1,tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="4K频道",咪咕4K-2
-http://127.0.0.1:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226991/1.m3u8
 #EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="4K频道",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,tvg-id="LOUPE4K" tvg-name="LOUPE4K" tvg-logo="https://epg.v1.mk/logo/LOUPE4K.png" group-title="4K频道",Loupe 4K
@@ -397,11 +401,13 @@ http://127.0.0.1:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 
 #咪咕
 #EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="咪咕",睛彩竞技
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226870/1.m3u8
 #EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="咪咕",睛彩篮球
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226966/1.m3u8
+#EXTINF:-1,tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://epg.v1.mk/logo/睛彩青少.png" group-title="咪咕",睛彩青少
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226992/1.m3u8
 #EXTINF:-1,tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://epg.v1.mk/logo/睛彩广场舞.png" group-title="咪咕",睛彩广场舞
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226933/1.m3u8
 #EXTINF:-1 tvg-name="咪咕4K-1" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕",咪咕4K-1
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226938/1.m3u8
 #EXTINF:-1 tvg-name="咪咕4K-2" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕",咪咕4K-2
