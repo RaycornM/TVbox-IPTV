@@ -10,7 +10,9 @@ https://raw.githubusercontent.com/RaycornM/TVbox-IPTV/main/Tivi.txt
 
 ## Tivimate直播源：
 
-https://raw.githubusercontent.com/RaycornM/TVbox-IPTV/main/Tivi.m3u
+ipv4：https://raw.githubusercontent.com/RaycornM/TVbox-IPTV/main/Tivi.m3u
+<br>
+ipv6：https://raw.githubusercontent.com/RaycornM/TVbox-IPTV/main/Tivi-ipv6.m3u
 
 ## 直播源搜索：
 
