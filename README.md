@@ -24,6 +24,9 @@ http://tonkiang.us
 https://iptv-search.com/zh-hans/m3u2txt<br>
 https://sankei.mo/z.html
 
+## github链接加速：
+https://gh-proxy.com/#google_vignette
+
 ### 记录
 >记录一下修复/更新/删除了什么
 
