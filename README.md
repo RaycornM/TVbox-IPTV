@@ -10,7 +10,9 @@ https://raw.githubusercontent.com/RaycornM/TVbox-IPTV/main/Tivi.txt
 
 ## Tivimate直播源：
 
-https://raw.githubusercontent.com/RaycornM/TVbox-IPTV/main/Tivi.m3u
+ipv4：https://raw.githubusercontent.com/RaycornM/TVbox-IPTV/main/Tivi.m3u
+<br>
+ipv6：https://raw.githubusercontent.com/RaycornM/TVbox-IPTV/main/Tivi-ipv6.m3u
 
 ## 直播源搜索：
 
@@ -21,6 +23,9 @@ http://tonkiang.us
 ~~https://guihet.com/tvlistconvert.html（突然要安装额外提供的安全插件才允许进入网页，所以排除，不介意可以尝试）~~<br>
 https://iptv-search.com/zh-hans/m3u2txt<br>
 https://sankei.mo/z.html
+
+## github链接加速：
+https://gh-proxy.com/#google_vignette
 
 ### 记录
 >记录一下修复/更新/删除了什么
