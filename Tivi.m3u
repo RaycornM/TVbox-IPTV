@@ -3,41 +3,41 @@
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 https://stream1.freetv.fun/cctv1-28.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://liveali-tpsdr.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3M/playlist.m3u8?wsSecret=f008a9054ebb13f7465d57e725e75d65&wsTime=1759731234
+http://liveali-tpsdr.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3M/playlist.m3u8?wsSecret=50e426e434347da0ac3a997a242622d5&wsTime=1762569545
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://202.168.168.50:5000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+https://stream1.freetv.fun/cctv3-39.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://202.168.168.50:5000/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+https://stream1.freetv.fun/cctv4-77.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://liveali-tpsdr.cctv.cn/hls/CCTV53bc308eb3d5646f49391875b23269073M/playlist.m3u8?wsSecret=359af34cbda471b8cb2cda7296d4c984&wsTime=1759728585
+https://stream1.freetv.fun/cctv5-40.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-https://cc06.tv12.xyz/6.m3u8
+https://stream1.freetv.fun/cctv5-plus-50.ctv
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://202.168.168.50:5000/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+https://stream1.freetv.fun/cctv-6-19.ctv
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://202.168.168.50:5000/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+https://stream1.freetv.fun/cctv7-16.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://202.168.168.50:5000/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+https://stream1.freetv.fun/cctv8-2.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://202.168.168.50:5000/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+https://stream1.freetv.fun/cctv9-9.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://202.168.168.50:5000/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+https://stream1.freetv.fun/cctv10-69.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://202.168.168.50:5000/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+https://stream1.freetv.fun/cctv11-70.ctv
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://202.168.168.50:5000/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+https://stream1.freetv.fun/cctv12-52.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://202.168.168.50:5000/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+https://stream1.freetv.fun/cctv-13-7.ctv
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://202.168.168.50:5000/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+https://stream1.freetv.fun/cctv-14-2.ctv
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://202.168.168.50:5000/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+https://stream1.freetv.fun/cctv-15-15.ctv
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://202.168.168.50:5000/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+https://stream1.freetv.fun/cctv16-15.m3u8
 #EXTINF:-1 tvg-name="CCTV16 4k" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 4K
 https://stream1.freetv.fun/cctv164k-1.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://202.168.168.50:5000/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+https://stream1.freetv.fun/cctv17-31.ctv
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
 https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1759784572-1-pcsa08dfb23de174fe386ff30b360429ab9-1350703bd85fab5bb62595030e033e7c&yid=pcsa08dfb23de174fe386ff30b360429ab9
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="央视频道",中国天气
