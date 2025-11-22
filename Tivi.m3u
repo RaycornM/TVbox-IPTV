@@ -5,7 +5,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1(backup)" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合(备用)
 http://43.139.155.76:5080/timi/migu720p/migu720p.php?id=608807420
 #EXTINF:-1 tvg-name="CCTV1(backup2)" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合(备用2)
-https://migu.188766.xyz/?migutoken=b1c4f536c6e186db92ff634a43c64e16&id=CCTV1&type=yy
+https://mgev.188766.xyz/?migutoken=0b67754a66187a34ac9d2f09f95f85b5&id=gd_gdty&type=sz
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 https://stream1.freetv.fun/cctv2hd-1.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
@@ -97,7 +97,7 @@ https://stream1.freetv.fun/yan-dong-wei-shi-83.ctv
 #EXTINF:-1 tvg-name="广东卫视(备用)" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png"  group-title="广东",广东卫视(备用)
 http://43.139.155.76:5080/timi/migu720p/migu720p.php?id=608831231
 #EXTINF:-1 tvg-name="广东卫视(备用2)" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png"  group-title="广东",广东卫视(备用2)
-https://migu.188766.xyz/?migutoken=5ac9cabd5be08c4fb284cbc26eb2505b&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+https://migu.188766.xyz/?migutoken=9662c3af33419fbff11127fb322eaadb&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-name="广东卫视(备用3)" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png"  group-title="广东",广东卫视(备用3)
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视
@@ -109,9 +109,9 @@ http://116.28.124.155:5000/udp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育(备用)" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东",广东体育（备用）
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育(备用2)" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东",广东体育（备用2）
-https://migu.188766.xyz/?migutoken=a6297615e19c68a6e265aba1e4862fcd&id=hk_gdty&type=dy
+https://migu.188766.xyz/?migutoken=a4f6614112b34a69252dff68dbe7d2ab&id=hk_gdty&type=dy
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育(备用3)" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东",广东体育（备用3）
-https://mgev.188766.xyz/?migutoken=483746256ce39626c1083fdc6bf254d7&id=gd_gdty&type=sz
+https://mgev.188766.xyz/?migutoken=0b67754a66187a34ac9d2f09f95f85b5&id=gd_gdty&type=sz
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育(备用4)" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东",广东体育（备用4）
 https://stream1.freetv.fun/yan-dong-ti-yu-24.ctv
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育(备用5)" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东",广东体育（备用5）
