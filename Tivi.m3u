@@ -13,17 +13,17 @@ https://stream1.freetv.fun/cctv-3-2.ctv
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://43.139.155.76:5080/timi/migu720p/migu720p.php?id=631780421
 #EXTINF:-1 tvg-name="CCTV4(backup)" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际(备用)
-https://migu.188766.xyz/?migutoken=48a04792947c96f9b3d9a59e54aef1e6&id=CCTV4&type=yy
+https://migu.188766.xyz/?migutoken=0cb335eafa9ac4143b9b954a124efffe&id=CCTV5&type=yy
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://43.139.155.76:5080/timi/migu720p/migu720p.php?id=641886683
 #EXTINF:-1 tvg-name="CCTV5(backup)" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育(备用)
-https://migu.188766.xyz/?migutoken=8e9d2a9e26d125de6a0be2cfab102d15&id=CCTV5&type=yy
+https://migu.188766.xyz/?migutoken=0cb335eafa9ac4143b9b954a124efffe&id=CCTV5&type=yy
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 http://43.139.155.76:5080/timi/migu720p/migu720p.php?id=641886773
 #EXTINF:-1 tvg-name="CCTV5+(backup)" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事(备用)
-https://migu.188766.xyz/?migutoken=6e305669f94a69028fd951068c35a1ef&id=CCTV5p&type=yy
+https://migu.188766.xyz/?migutoken=0cb335eafa9ac4143b9b954a124efffe&id=CCTV5&type=yy
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-https://migu.188766.xyz/?migutoken=71a418014ba6801e57dcf90018cfc135&id=CCTV6&type=yy
+https://migu.188766.xyz/?migutoken=0cb335eafa9ac4143b9b954a124efffe&id=CCTV5&type=yy
 #EXTINF:-1 tvg-name="CCTV6(backup)" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影(备用)
 http://43.139.155.76:5080/timi/migu720p/migu720p.php?id=624878396
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
