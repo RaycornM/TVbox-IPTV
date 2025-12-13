@@ -1,30 +1,30 @@
 央视频道,#genre#
 CCTV-1 综合,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV-1 综合(备用),https://migu.188766.xyz/?migutoken=98f887ee8e90ff59931eed45ab3db46c&id=CCTV1&type=yy
-CCTV-1 综合(备用2),http://43.139.155.76:5080/timi/migu720p/migu720p.php?id=608807420
-CCTV-2 财经,https://stream1.freetv.fun/cctv2hd-1.m3u8
-CCTV-3 综艺,https://stream1.freetv.fun/cctv-3-2.ctv
-CCTV-4 中文国际,https://migu.188766.xyz/?migutoken=fcf23882e5459dfa9e6434fea87838d6&id=CCTV4&type=yy
-CCTV-4 中文国际(备用),http://43.139.155.76:5080/timi/migu720p/migu720p.php?id=631780421
-CCTV-5 体育,https://migu.188766.xyz/?migutoken=2697d8b867adb2e247f927c0f21b95d1&id=CCTV5&type=yy
-CCTV-5 体育(备用),http://43.139.155.76:5080/timi/migu720p/migu720p.php?id=641886683
-CCTV-5+ 体育赛事,https://migu.188766.xyz/?migutoken=27d2db9c945b5117d738a8aa12eefb23&id=CCTV5p&type=yy
-CCTV-5+ 体育赛事(备用),http://43.139.155.76:5080/timi/migu720p/migu720p.php?id=641886773
-CCTV-6 电影,https://migu.188766.xyz/?migutoken=aacab4eb2e59e035cf61003917d1db5c&id=CCTV6&type=yy
-CCTV-6 电影(备用),http://43.139.155.76:5080/timi/migu720p/migu720p.php?id=624878396
-CCTV-7 国防军事,https://stream1.freetv.fun/cctv7-16.m3u8
-CCTV-8 电视剧,https://stream1.freetv.fun/cctv8-2.m3u8
-CCTV-9 纪录,https://stream1.freetv.fun/cctv-9-2.ctv
-CCTV-10 科教,https://stream1.freetv.fun/cctv-10-13.ctv
-CCTV-11 戏曲,https://stream1.freetv.fun/cctv11-47.m3u8
-CCTV-12 社会与法,https://stream1.freetv.fun/cctv12-47.ctv
-CCTV-13 新闻,https://stream1.freetv.fun/cctv-13-7.ctv
-CCTV-14 少儿,https://stream1.freetv.fun/cctv-14-2.ctv
-CCTV-15 音乐,https://stream1.freetv.fun/cctv-15-15.ctv
-CCTV-16 奥林匹克,https://stream1.freetv.fun/cctv16-47.m3u8
+CCTV-1 综合(备用),https://bc.188766.xyz/?ip=&mishitong=true&lunbo=false&mima=mianfeibuhuaqian
+CCTV-1 综合(备用2),https://stream1.freetv.fun/cctv1-28.m3u8
+CCTV-2 财经,https://stream1.freetv.fun/cctv2-42.m3u8
+CCTV-3 综艺,https://stream1.freetv.fun/cctv3-3.m3u8
+CCTV-4 中文国际,https://stream1.freetv.fun/cctv4-19.ctv
+CCTV-4 中文国际(备用),https://migu.188766.xyz/?migutoken=178c143a5e206f466e58de2f6698eb1c&id=CCTV4&type=yy
+CCTV-5 体育,https://stream1.freetv.fun/cctv5-71.m3u8
+CCTV-5 体育(备用),https://migu.188766.xyz/?migutoken=956b74698450fd0f9d3cedae07700bba&id=CCTV5&type=yy
+CCTV-5+ 体育赛事,https://stream1.freetv.fun/cctv5-plus-14.m3u8
+CCTV-5+ 体育赛事(备用),https://migu.188766.xyz/?migutoken=113d1bc1010a3a1792cc8897fbc356c2&id=CCTV5p&type=yy
+CCTV-6 电影,https://stream1.freetv.fun/cctv-6gao-qing-4.m3u8
+CCTV-6 电影(备用),https://migu.188766.xyz/?migutoken=ffb14128dbcab1611486aefb94b63f08&id=CCTV6&type=yy
+CCTV-7 国防军事,https://stream1.freetv.fun/cctv7-18.ctv
+CCTV-8 电视剧,https://stream1.freetv.fun/cctv-8gao-qing-1.m3u8
+CCTV-9 纪录,https://stream1.freetv.fun/cctv-9gao-qing-2.m3u8
+CCTV-10 科教,https://stream1.freetv.fun/cctv10-56.ctv
+CCTV-11 戏曲,https://stream1.freetv.fun/cctv11-70.ctv
+CCTV-12 社会与法,https://stream1.freetv.fun/cctv12-57.m3u8
+CCTV-13 新闻,https://stream1.freetv.fun/cctv13-xin-wen-1.m3u8
+CCTV-14 少儿,https://stream1.freetv.fun/cctv14-57.m3u8
+CCTV-15 音乐,https://stream1.freetv.fun/cctv15-61.m3u8
+CCTV-16 奥林匹克,https://stream1.freetv.fun/cctv16-ao-lin-pi-ke-2.m3u8
 CCTV-16 奥林匹克 4K,https://stream1.freetv.fun/cctv164k-1.m3u8
-CCTV-17 农业农村,https://stream1.freetv.fun/cctv17-4.ctv
-CCTV-4K 超高清,http://183.30.202.251:8000/udp/239.77.0.194:5146
+CCTV-17 农业农村,https://stream1.freetv.fun/cctv17-9.m3u8
+CCTV-4K 超高清,https://stream1.freetv.fun/cctv8kchao-gao-qing-1.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CHC影迷电影,https://migu.188766.xyz/?migutoken=db2a8f827abedfb8bd1ba3f4fc0e7ba4&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 CHC动作电影,https://migu.188766.xyz/?migutoken=5dd3c3fb0f9ce35193bb15c45fbf9856&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
@@ -47,22 +47,21 @@ CCTV-怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 
 广东,#genre#
 
-广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-25.ctv
-广东卫视(备用),https://migu.188766.xyz/?migutoken=e1bab219e50e6f64570ba5e1b24ca15a&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
-广东卫视(备用2),http://43.139.155.76:5080/timi/migu720p/migu720p.php?id=608831231
-广东卫视(备用3),http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-87.m3u8
+广东卫视(备用),http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+广东卫视(备用2),https://migu.188766.xyz/?migutoken=f7dcf8923b99bdd2227c6595bfed0160&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111
 深圳卫视,http://183.30.202.251:8000/udp/239.77.0.67:5146
 广东体育,http://116.28.124.155:5000/udp/239.77.0.168:5146
 广东体育（备用）,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-广东体育（备用2）,https://migu.188766.xyz/?migutoken=3d663ae32f16779daa71624f5081d05c&id=hk_gdty&type=dy
-广东体育（备用3）,https://mgev.188766.xyz/?migutoken=fde3dec7d9e6e81f177796e3d628b140&id=gd_gdty&type=sz
-广东体育（备用4）,https://stream1.freetv.fun/yan-dong-ti-yu-39.ctv
-广东体育（备用5）,https://stream1.freetv.fun/yan-dong-ti-yu-6.m3u8
-广东珠江,http://183.30.202.251:8000/udp/239.77.0.114:5146
+广东体育（备用2）,https://migu.188766.xyz/?migutoken=b6964e30c035e36178df2fe28f23e4f2&id=hk_gdty&type=dy
+广东体育（备用3）,https://hk.188766.xyz/?migutoken=2336dbec9c2383aa6d9e769a2997dcb9&id=gd_gdty&type=sz
+广东体育（备用4）,https://stream1.freetv.fun/yan-dong-ti-yu-22.m3u8
+广东体育（备用5）,https://stream1.freetv.fun/yan-dong-ti-yu-37.ctv
+广东珠江,https://hk.188766.xyz/?migutoken=5602d5e6460d00c7ffb54da855e8a1bc&id=gd_gdzj&type=sz
 广东珠江（备用）,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江（备用2）,https://stream1.freetv.fun/yan-dong-zhu-jiang-23.ctv
-广东新闻,http://183.30.202.251:8000/udp/239.77.0.173:5146
+广东新闻,https://hk.188766.xyz/?migutoken=55167266f6adf1371604acedef85a23c&id=gd_gdxw&type=sz
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 广东经济科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.6:11111
@@ -78,21 +77,21 @@ CCTV-怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 港澳台,#genre#
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文(备用),http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111
-凤凰中文(备用2),http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
-凤凰中文(备用3),http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯(备用),http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
-凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv
-凤凰香港(备用),https://mgev.188766.xyz/?migutoken=388dc2d509b4a7f784fb761354994c3f&id=fhhk&pp=1
+凤凰中文(备用),http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰中文(备用2),https://mgev.188766.xyz/?migutoken=e394552a624627ead459483a18f4cd86&id=fhzw&pp=1
+凤凰中文(备用3),https://stream1.freetv.fun/feng-huang-zhong-wen-4.ctv
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰资讯(备用),https://mgev.188766.xyz/?migutoken=a533884a80db07f1226671c268297d8a&id=fhzx&pp=1
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+凤凰香港(备用),https://mgev.188766.xyz/?migutoken=82c5c81ed7e837e64bba2b6cef670f5d&id=fhhk&pp=1
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台4K,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 明珠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.2:11111
-明珠台(备用),https://migu.188766.xyz/?migutoken=be3ca4da085b5dc06ce1c2d809b0b53c&id=hk_mzt&type=dy
+明珠台(备用),https://mgev.188766.xyz/?migutoken=5a4d89aab5833a679e8a3af1c6aa172d&id=hk_mzt&type=dy
 凤凰电影,https://stream1.freetv.fun/feng-huang-dian-ying-2.ctv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 TVB无线新闻,https://stream1.freetv.fun/wu-xian-xin-wen-12.ctv
-TVB无线新闻(备用),https://migu.188766.xyz/?migutoken=25bd445d5124bdd212b727db36997c2f&id=hk_wxxw&type=dy
+TVB无线新闻(备用),https://hk.188766.xyz/?migutoken=b3d34d894bb89de551e8f637ab7f466d&id=hk_wxxw&type=dy
 TVB无线新闻(备用2),http://php.jdshipin.com:8880/smt.php?id=inews_twn
 TVBS新闻台,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
 澳视澳门,https://migu.188766.xyz/?migutoken=d69c02a88c64969990eb0c4782b2428b&id=hk_asam&type=dy
@@ -103,8 +102,8 @@ TVBS新闻台,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
 亚洲旅游,https://stream1.freetv.fun/ya-zhou-lu-you-1.m3u8
 CINEMAX,https://ushls.ballbar.net/cinemax_twn/playlist-25.m3u8a?t=1735544618&token=8ebac953537627ece599949d71f0c2a7
 TVBsuper,http://bva.iptviptv.site:9694/hls/916/index.m3u8
-TVB+,https://migu.188766.xyz/?migutoken=f2339e99ca6b8cae0cedc6734d2565e8&id=hk_tvbp&type=dy
-TVB无线星河,https://stream1.freetv.fun/tvbxing-he-1.ctv
+TVB+,https://mgev.188766.xyz/?migutoken=9d6bbaf01123a633c40b895b6c1da618&id=hk_tvbxh&type=dy
+TVB无线星河,https://mgev.188766.xyz/?migutoken=9d6bbaf01123a633c40b895b6c1da618&id=hk_tvbxh&type=dy
 TVB无线星河(备用),http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVB娱乐新闻(备用),http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
@@ -245,52 +244,52 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 
 咪咕,#genre#
 
-睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=4c0b8b3d4c0b8b3d4c0b8b3d4c0b8b3d
-睛彩篮球,https://msj.188766.xyz/play?id=3000000020000011529&token=4c0b8b3e4c0b8b3e4c0b8b3e4c0b8b3e
-睛彩青少,https://msj.188766.xyz/play?id=3000000020000011525&token=4c0b8b3a4c0b8b3a4c0b8b3a4c0b8b3a
-睛彩广场舞,https://msj.188766.xyz/play?id=3000000020000011523&token=4c0b8b384c0b8b384c0b8b384c0b8b38
+睛彩竞技,https://msj.188766.xyz/play?id=3000000020000011528&token=5370c05c5370c05c5370c05c5370c05c
+睛彩篮球,https://msj.188766.xyz/play?id=3000000020000011529&token=5370c05d5370c05d5370c05d5370c05d
+睛彩青少,https://msj.188766.xyz/play?id=3000000020000011525&token=5370c0595370c0595370c0595370c059
+睛彩广场舞,https://msj.188766.xyz/play?id=3000000020000011523&token=5370c0575370c0575370c0575370c057
 咪咕24小时体育,http://43.139.155.76:5080/timi/migu720p/migu720p.php?id=654102378
 24小时城市联赛轮播,http://43.139.155.76:5080/timi/migu720p/migu720p.php?id=915512915
-咪咕4K-1,https://msj.188766.xyz/play?id=3000000010000005180&token=b71a8425b71a8425b71a8425b71a8425
-咪咕4K-2,https://msj.188766.xyz/play?id=3000000010000015686&token=b728ae71b728ae71b728ae71b728ae71
-咪咕1,https://msj.188766.xyz/play?id=3000000001000005308&token=167f4915167f4915167f4915167f4915
-咪咕2,https://msj.188766.xyz/play?id=3000000001000005969&token=167f6056167f6056167f6056167f6056
-咪咕3,https://msj.188766.xyz/play?id=3000000001000007218&token=16802e3116802e3116802e3116802e31
-咪咕4,https://msj.188766.xyz/play?id=3000000001000008001&token=16809ae816809ae816809ae816809ae8
-咪咕5,https://msj.188766.xyz/play?id=3000000001000008176&token=16809f8716809f8716809f8716809f87
-咪咕6,https://msj.188766.xyz/play?id=3000000001000008379&token=1680a70c1680a70c1680a70c1680a70c
-咪咕7,https://msj.188766.xyz/play?id=3000000001000010129&token=168b1378168b1378168b1378168b1378
-咪咕8,https://msj.188766.xyz/play?id=3000000001000010948&token=168b31bd168b31bd168b31bd168b31bd
-咪咕9,https://msj.188766.xyz/play?id=3000000001000028638&token=169ce0d4169ce0d4169ce0d4169ce0d4
-咪咕10,https://msj.188766.xyz/play?id=3000000001000031494&token=16a7c2f016a7c2f016a7c2f016a7c2f0
-咪咕11,https://msj.188766.xyz/play?id=3000000010000000097&token=b7183aafb7183aafb7183aafb7183aaf
-咪咕12,https://msj.188766.xyz/play?id=3000000010000002019&token=b7192277b7192277b7192277b7192277
-咪咕13,https://msj.188766.xyz/play?id=3000000010000002809&token=b7194060b7194060b7194060b7194060
-咪咕14,https://msj.188766.xyz/play?id=3000000010000003915&token=b719b89bb719b89bb719b89bb719b89b
-咪咕15,https://msj.188766.xyz/play?id=3000000010000004193&token=b71a0fe8b71a0fe8b71a0fe8b71a0fe8
-咪咕16,https://msj.188766.xyz/play?id=3000000010000005837&token=b71a9dd8b71a9dd8b71a9dd8b71a9dd8
-咪咕17,https://msj.188766.xyz/play?id=3000000010000006077&token=b71af4abb71af4abb71af4abb71af4ab
-咪咕18,https://msj.188766.xyz/play?id=3000000010000006658&token=b71b0af4b71b0af4b71b0af4b71b0af4
-咪咕19,https://msj.188766.xyz/play?id=3000000010000009788&token=b71c6c2fb71c6c2fb71c6c2fb71c6c2f
-咪咕20,https://msj.188766.xyz/play?id=3000000010000010833&token=b7266f7ab7266f7ab7266f7ab7266f7a
-咪咕21,https://msj.188766.xyz/play?id=3000000010000011297&token=b726ce11b726ce11b726ce11b726ce11
-咪咕22,https://msj.188766.xyz/play?id=3000000010000011518&token=b726d85db726d85db726d85db726d85d
-咪咕23,https://msj.188766.xyz/play?id=3000000010000012558&token=b7274d38b7274d38b7274d38b7274d38
-咪咕24,https://msj.188766.xyz/play?id=3000000010000012616&token=b727507bb727507bb727507bb727507b
-咪咕25,https://msj.188766.xyz/play?id=3000000010000015470&token=b728a6cab728a6cab728a6cab728a6ca
-咪咕26,https://msj.188766.xyz/play?id=3000000010000015560&token=b728aa6cb728aa6cb728aa6cb728aa6c
-咪咕27,https://msj.188766.xyz/play?id=3000000010000017678&token=b7299712b7299712b7299712b7299712
-咪咕28,https://msj.188766.xyz/play?id=3000000010000019839&token=b72a86d7b72a86d7b72a86d7b72a86d7
-咪咕29,https://msj.188766.xyz/play?id=3000000010000021904&token=b734febfb734febfb734febfb734febf
-咪咕30,https://msj.188766.xyz/play?id=3000000010000023434&token=b735d515b735d515b735d515b735d515
-咪咕31,https://msj.188766.xyz/play?id=3000000010000025380&token=b736baa9b736baa9b736baa9b736baa9
-咪咕32,https://msj.188766.xyz/play?id=3000000010000027691&token=b737aecab737aecab737aecab737aeca
-咪咕33,https://msj.188766.xyz/play?id=3000000010000031669&token=b7430bbcb7430bbcb7430bbcb7430bbc
-咪咕34,https://msj.188766.xyz/play?id=3000000020000011518&token=4c0b8b1e4c0b8b1e4c0b8b1e4c0b8b1e
-咪咕35,https://msj.188766.xyz/play?id=3000000020000011519&token=4c0b8b1f4c0b8b1f4c0b8b1f4c0b8b1f
-咪咕36,https://msj.188766.xyz/play?id=3000000020000011520&token=4c0b8b354c0b8b354c0b8b354c0b8b35
-咪咕37,https://msj.188766.xyz/play?id=3000000020000011521&token=4c0b8b364c0b8b364c0b8b364c0b8b36
-咪咕38,https://msj.188766.xyz/play?id=3000000020000011522&token=4c0b8b374c0b8b374c0b8b374c0b8b37
+咪咕4K-1,https://msj.188766.xyz/play?id=3000000010000005180&token=be7fb944be7fb944be7fb944be7fb944
+咪咕4K-2,https://msj.188766.xyz/play?id=3000000010000015686&token=be8de390be8de390be8de390be8de390
+咪咕1,https://msj.188766.xyz/play?id=3000000001000005308&token=1de47e341de47e341de47e341de47e34
+咪咕2,https://msj.188766.xyz/play?id=3000000001000005308&token=a49c42b3a49c42b3a49c42b3a49c42b3&client=ys
+咪咕3,https://msj.188766.xyz/play?id=3000000001000007218&token=a49d27cfa49d27cfa49d27cfa49d27cf&client=ys
+咪咕4,https://msj.188766.xyz/play?id=3000000001000008001&token=1de5d0071de5d0071de5d0071de5d007
+咪咕5,https://msj.188766.xyz/play?id=3000000001000008176&token=1de5d4a61de5d4a61de5d4a61de5d4a6
+咪咕6,https://msj.188766.xyz/play?id=3000000001000008379&token=1de5dc2b1de5dc2b1de5dc2b1de5dc2b
+咪咕7,https://msj.188766.xyz/play?id=3000000001000010129&token=a4a80d16a4a80d16a4a80d16a4a80d16&client=ys
+咪咕8,https://msj.188766.xyz/play?id=3000000001000010948&token=1df066dc1df066dc1df066dc1df066dc
+咪咕9,https://msj.188766.xyz/play?id=3000000001000028638&token=1e0215f31e0215f31e0215f31e0215f3
+咪咕10,https://msj.188766.xyz/play?id=3000000001000031494&token=1e0cf80f1e0cf80f1e0cf80f1e0cf80f
+咪咕11,https://msj.188766.xyz/play?id=3000000010000000097&token=be7d6fcebe7d6fcebe7d6fcebe7d6fce
+咪咕12,https://msj.188766.xyz/play?id=3000000010000002019&token=be7e5796be7e5796be7e5796be7e5796
+咪咕13,https://msj.188766.xyz/play?id=3000000010000002809&token=be7e757fbe7e757fbe7e757fbe7e757f
+咪咕14,https://msj.188766.xyz/play?id=3000000010000003915&token=be7eedbabe7eedbabe7eedbabe7eedba
+咪咕15,https://msj.188766.xyz/play?id=3000000010000004193&token=be7f4507be7f4507be7f4507be7f4507
+咪咕16,https://msj.188766.xyz/play?id=3000000010000005837&token=be7fd2f7be7fd2f7be7fd2f7be7fd2f7
+咪咕17,https://msj.188766.xyz/play?id=3000000010000006077&token=be8029cabe8029cabe8029cabe8029ca
+咪咕18,https://msj.188766.xyz/play?id=3000000010000006658&token=be804013be804013be804013be804013
+咪咕19,https://msj.188766.xyz/play?id=3000000010000009788&token=be81a14ebe81a14ebe81a14ebe81a14e
+咪咕20,https://msj.188766.xyz/play?id=3000000010000010833&token=be8ba499be8ba499be8ba499be8ba499
+咪咕21,https://msj.188766.xyz/play?id=3000000010000011297&token=be8c0330be8c0330be8c0330be8c0330
+咪咕22,https://msj.188766.xyz/play?id=3000000010000011518&token=be8c0d7cbe8c0d7cbe8c0d7cbe8c0d7c
+咪咕23,https://msj.188766.xyz/play?id=3000000010000012558&token=be8c8257be8c8257be8c8257be8c8257
+咪咕24,https://msj.188766.xyz/play?id=3000000010000012616&token=be8c859abe8c859abe8c859abe8c859a
+咪咕25,https://msj.188766.xyz/play?id=3000000010000015470&token=be8ddbe9be8ddbe9be8ddbe9be8ddbe9
+咪咕26,https://msj.188766.xyz/play?id=3000000010000015560&token=be8ddf8bbe8ddf8bbe8ddf8bbe8ddf8b
+咪咕27,https://msj.188766.xyz/play?id=3000000010000017678&token=be8ecc31be8ecc31be8ecc31be8ecc31
+咪咕28,https://msj.188766.xyz/play?id=3000000010000019839&token=be8fbbf6be8fbbf6be8fbbf6be8fbbf6
+咪咕29,https://msj.188766.xyz/play?id=3000000010000021904&token=be9a33debe9a33debe9a33debe9a33de
+咪咕30,https://msj.188766.xyz/play?id=3000000010000023434&token=be9b0a34be9b0a34be9b0a34be9b0a34
+咪咕31,https://msj.188766.xyz/play?id=3000000010000025380&token=be9befc8be9befc8be9befc8be9befc8
+咪咕32,https://msj.188766.xyz/play?id=3000000010000027691&token=be9ce3e9be9ce3e9be9ce3e9be9ce3e9
+咪咕33,https://msj.188766.xyz/play?id=3000000010000031669&token=bea840dbbea840dbbea840dbbea840db
+咪咕34,https://msj.188766.xyz/play?id=3000000020000011518&token=5370c03d5370c03d5370c03d5370c03d
+咪咕35,https://msj.188766.xyz/play?id=3000000020000011519&token=5370c03e5370c03e5370c03e5370c03e
+咪咕36,https://msj.188766.xyz/play?id=3000000020000011520&token=5370c0545370c0545370c0545370c054
+咪咕37,https://msj.188766.xyz/play?id=3000000020000011521&token=5370c0555370c0555370c0555370c055
+咪咕38,https://msj.188766.xyz/play?id=3000000020000011522&token=5370c0565370c0565370c0565370c056
 咪咕39,http://111.13.111.242/000000001000/3000000010000017997/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 咪咕40,http://111.13.111.242/000000001000/3000000010000019380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 咪咕41,http://111.13.111.242/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
