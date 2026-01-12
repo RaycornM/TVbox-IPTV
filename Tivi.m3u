@@ -3,53 +3,53 @@
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合 [匹配: e.xml]
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1(backup)" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合(备用)
-https://migu.188766.xyz/?migutoken=9835b51582dd7ceadbbe6f7786fc81eb&id=CCTV1&type=yy
+https://migu.188766.xyz/?migutoken=33106f7a47c5a7536851c98b3556ad36&id=CCTV1&type=yy
 #EXTINF:-1 tvg-name="CCTV1(backup2)" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合(备用2)
-https://stream1.freetv.fun/cctv1-28.m3u8
+https://t.freetv.fun/live/cctv1-1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经 [匹配: e.xml]
-https://stream1.freetv.fun/cctv2-72.m3u8
+https://t.freetv.fun/live/cctv2-1.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺 [匹配: e.xml]
-https://stream1.freetv.fun/cctv3-35.ctv
+https://t.freetv.fun/live/cctv3-1.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际 [匹配: e.xml]
-https://stream1.freetv.fun/cctv4-zhong-wen-guo-ji-1.ctv
+https://t.freetv.fun/live/cctv4-1.m3u8
 #EXTINF:-1 tvg-name="CCTV4(backup)" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际(备用)
 https://migu.188766.xyz/?migutoken=ff25cd670f0b0590139042ee206443c7&id=CCTV4&type=yy
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育 [匹配: e.xml]
-https://stream1.freetv.fun/cctv5-77.m3u8
+https://t.freetv.fun/live/cctv5-1.php
 #EXTINF:-1 tvg-name="CCTV5(backup)" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育(备用)
 https://migu.188766.xyz/?migutoken=2ffa09cb078a6b2a73ce9c59c942d713&id=CCTV5&type=yy
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事 [匹配: e.xml]
-https://stream1.freetv.fun/cctv5-plus-47.ctv
+https://t.freetv.fun/live/cctv5-plusti-yu-sai-shi.php
 #EXTINF:-1 tvg-name="CCTV5+(backup)" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事(备用)
 https://migu.188766.xyz/?migutoken=0313805798d95dd1f210198858e0a662&id=CCTV5p&type=yy
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影 [匹配: e.xml]
-https://stream1.freetv.fun/cctv6-62.ctv
+https://t.freetv.fun/live/cctv6-1.m3u8
 #EXTINF:-1 tvg-name="CCTV6(backup)" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影(备用)
-https://migu.188766.xyz/?migutoken=75c70552ed7600a6d7b08b33e8ca40ad&id=CCTV6&type=yy
+https://migu.188766.xyz/?migutoken=05f9d6cc3c728260dfd4eb80fb8fc61e&id=CCTV6&type=yy
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事 [匹配: e.xml]
-https://stream1.freetv.fun/cctv7-16.m3u8
+https://t.freetv.fun/live/cctv7.php
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧 [匹配: e.xml]
-https://stream1.freetv.fun/cctv8-67.ctv
+https://t.freetv.fun/live/cctv8.php
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录 [匹配: e.xml]
-https://stream1.freetv.fun/cctv-9gao-qing-1.m3u8
+https://t.freetv.fun/live/cctv9-1.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教 [匹配: e.xml]
-https://stream1.freetv.fun/cctv-10-5.ctv
+https://t.freetv.fun/live/cctv10.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲 [匹配: e.xml]
-https://stream1.freetv.fun/cctv11-24.ctv
+https://t.freetv.fun/live/cctv11.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法 [匹配: e.xml]
-https://stream1.freetv.fun/cctv12hd-1.m3u8
+https://t.freetv.fun/live/cctv12-1.php
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻 [匹配: e.xml]
-https://stream1.freetv.fun/cctv13-11.m3u8
+https://t.freetv.fun/live/cctv13-1.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿 [匹配: e.xml]
-https://stream1.freetv.fun/cctv-14-26.ctv
+https://t.freetv.fun/live/cctv14.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐 [匹配: e.xml]
-https://stream1.freetv.fun/cctv15-42.ctv
+https://t.freetv.fun/live/cctv15.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 [匹配: e.xml]
-https://stream1.freetv.fun/cctv-16-1.ctv
+https://t.freetv.fun/live/cctv16-3.php
 #EXTINF:-1 tvg-name="CCTV16 4k" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 4K
 https://stream1.freetv.fun/cctv164k-1.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村 [匹配: e.xml]
-https://stream1.freetv.fun/cctv17-50.m3u8
+https://t.freetv.fun/live/cctv17-2.php
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清 [匹配: e.xml]
 https://stream1.freetv.fun/cctv8kchao-gao-qing-1.m3u8
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="央视频道",中国天气 [匹配: t.xml]
@@ -77,7 +77,7 @@ http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视频道",CCTV-第一剧场 [匹配: e.xml]
 http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视频道",CCTV-风云足球 [匹配: e.xml]
-http://36.32.99.215:5003/live1584.m3u8
+https://t.freetv.fun/live/cctvfeng-yun-zu-qiu-1.m3u8
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视频道",CCTV-世界地理 [匹配: e.xml]
 http://111.61.236.247:9081/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视频道",CCTV-央视台球 [匹配: e.xml]
@@ -93,15 +93,15 @@ http://120.76.248.139/live/bfgd/4200000224.m3u8
 
 #广东
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png"  group-title="广东",广东卫视 [匹配: e.xml]
-https://stream1.freetv.fun/yan-dong-wei-shi-71.ctv
+https://t.freetv.fun/live/yan-dong-wei-shi-7.m3u8
 #EXTINF:-1 tvg-name="广东卫视(备用)" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png"  group-title="广东",广东卫视(备用) [匹配: e.xml]
 http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 #EXTINF:-1 tvg-name="广东卫视(备用2)" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png"  group-title="广东",广东卫视(备用2) [匹配: e.xml]
-https://migu.188766.xyz/?migutoken=f7dcf8923b99bdd2227c6595bfed0160&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+https://migu.188766.xyz/?migutoken=1ea450f159441ae895070ca4c9368a40&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东",大湾区卫视 [匹配: e.xml]
 http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="广东",深圳卫视 [匹配: e.xml]
-http://183.30.202.251:8000/udp/239.77.0.67:5146
+https://migu.188766.xyz/?migutoken=1ea450f159441ae895070ca4c9368a40&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东",广东体育 [匹配: e.xml]
 http://116.28.124.155:5000/udp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育(备用)" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东体育.png" group-title="广东",广东体育（备用） [匹配: e.xml]
