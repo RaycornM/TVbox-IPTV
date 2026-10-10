@@ -54,6 +54,9 @@ https://gh-proxy.com/#google_vignette
 * 2026.01.12
 修复部分频道
 
+<details>
+  <summary>2025-2024</summary>
+  
 * 2025.12.29
 修复部分频道
 
@@ -158,3 +161,4 @@ https://gh-proxy.com/#google_vignette
 
 * 2024.12.30
 删除冗余文件，新增广东和港澳台几个频道，修复大部分失效频道
+</details>
